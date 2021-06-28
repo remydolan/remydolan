@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @remydolan
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently studying for my Masters in Applied Computing
+- 👋 Hi, I’m Remy
+- 👀 I’m interested in learning as much as possible about anything to do with Maths, Computing and Physics!
+- 🌱 I’m currently studying for my Masters in Applied Computing, I'm spending the summer training an AI to detect craters on the surface of the Moon in order for a spacecraft to land safely! Once that is done I will be making my dissertation repo public.
+- Once I have time I'll be creating new repos for my mini projects which include deploying a facial recognition AI to a Raspberry Pi, calculating someone's heart rate using frames of their face, and other smaller Arduino projects.
 - 📫 How to reach me: remydolan@gmail.com or LinkedIn
 
 <!---
